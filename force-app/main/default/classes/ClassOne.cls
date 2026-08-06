@@ -9,7 +9,8 @@ public with sharing class ClassOne
     public void myMethod()
     {
         Integer ra=9;
-        Integer r2=90;
+        Integer r2=00;
     }
     
 }
+//test
