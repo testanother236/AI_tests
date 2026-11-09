@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
     <alerts>
-        <fullName>Flosum__EmailAlertOnPeerReviewerInsert</fullName>
         <description>EmailAlertOnPeerReviewerInsert</description>
+        <fullName>Flosum__EmailAlertOnPeerReviewerInsert</fullName>
         <protected>false</protected>
         <recipients>
             <field>Flosum__User__c</field>
@@ -13,8 +13,8 @@
         <template>Flosum__Flosum/Flosum__PeerReviewerInsert</template>
     </alerts>
     <alerts>
-        <fullName>Flosum__EmailAlertOnReviewerApprove</fullName>
         <description>EmailAlertOnReviewerApprove</description>
+        <fullName>Flosum__EmailAlertOnReviewerApprove</fullName>
         <protected>false</protected>
         <recipients>
             <type>owner</type>
@@ -23,8 +23,8 @@
         <template>Flosum__Flosum/Flosum__PullRequestApprovedByReviewer</template>
     </alerts>
     <alerts>
-        <fullName>Flosum__EmailAlertOnReviewerReject</fullName>
         <description>EmailAlertOnReviewerReject</description>
+        <fullName>Flosum__EmailAlertOnReviewerReject</fullName>
         <protected>false</protected>
         <recipients>
             <type>owner</type>
@@ -33,7 +33,6 @@
         <template>Flosum__Flosum/Flosum__PullRequestRejectedByReviewer</template>
     </alerts>
     <rules>
-        <fullName>Flosum__OnReviewerApprove</fullName>
         <actions>
             <name>Flosum__EmailAlertOnReviewerApprove</name>
             <type>Alert</type>
@@ -44,10 +43,10 @@
             <operation>equals</operation>
             <value>Approved</value>
         </criteriaItems>
+        <fullName>Flosum__OnReviewerApprove</fullName>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
     </rules>
     <rules>
-        <fullName>Flosum__OnReviewerReject</fullName>
         <actions>
             <name>Flosum__EmailAlertOnReviewerReject</name>
             <type>Alert</type>
@@ -58,6 +57,7 @@
             <operation>equals</operation>
             <value>Reject</value>
         </criteriaItems>
+        <fullName>Flosum__OnReviewerReject</fullName>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
     </rules>
 </Workflow>

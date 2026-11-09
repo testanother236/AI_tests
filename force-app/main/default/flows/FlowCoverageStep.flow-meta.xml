@@ -17,6 +17,7 @@
         <nameSegment>FlowCoverageService</nameSegment>
     </actionCalls>
     <apiVersion>61.0</apiVersion>
+    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
     <environments>Default</environments>
     <interviewLabel>FlowCoverageStep {!$Flow.CurrentDateTime}</interviewLabel>
     <label>FlowCoverageStep</label>

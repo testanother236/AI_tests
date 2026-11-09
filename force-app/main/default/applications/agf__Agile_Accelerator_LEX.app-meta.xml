@@ -11,7 +11,6 @@
     </actionOverrides>
     <brand>
         <headerColor>#0070D2</headerColor>
-        <logo>agf__salesforce</logo>
         <logoVersion>1</logoVersion>
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
@@ -23,6 +22,14 @@
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <label>Agile Accelerator</label>
     <navType>Standard</navType>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>Lightning_Work_Record_Page</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>agf__ADM_Work__c</pageOrSobjectType>
+        <profile>Admin</profile>
+        <type>Flexipage</type>
+    </profileActionOverrides>
     <profileActionOverrides>
         <actionName>View</actionName>
         <content>Lightning_Work_Record_Page</content>
@@ -48,14 +55,6 @@
         <pageOrSobjectType>agf__ADM_Work__c</pageOrSobjectType>
         <profile>Admin</profile>
         <recordType>agf__ADM_Work__c.agf__User_Story</recordType>
-        <type>Flexipage</type>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Lightning_Work_Record_Page</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>agf__ADM_Work__c</pageOrSobjectType>
-        <profile>Admin</profile>
         <type>Flexipage</type>
     </profileActionOverrides>
     <tabs>agf__ADM_Work__c</tabs>
