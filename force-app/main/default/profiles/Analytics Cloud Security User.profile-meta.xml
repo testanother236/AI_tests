@@ -141,6 +141,10 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGG</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>AAAAVOfcyda</apexClass>
         <enabled>false</enabled>
     </classAccesses>

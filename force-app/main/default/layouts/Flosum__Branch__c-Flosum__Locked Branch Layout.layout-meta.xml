@@ -111,8 +111,8 @@
                 <customLink>Flosum__View_sync_jobs</customLink>
             </layoutItems>
         </layoutColumns>
-        <layoutColumns/>
-        <layoutColumns/>
+        <layoutColumns></layoutColumns>
+        <layoutColumns></layoutColumns>
         <style>CustomLinks</style>
     </layoutSections>
     <platformActionList>

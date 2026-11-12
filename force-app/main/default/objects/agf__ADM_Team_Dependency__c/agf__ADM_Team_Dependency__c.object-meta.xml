@@ -170,8 +170,8 @@
         <customTabListAdditionalFields>agf__Provider_Team__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>agf__Deliverable__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>agf__Dependency_Status__c</customTabListAdditionalFields>
-        <excludedStandardButtons>Accept</excludedStandardButtons>
         <excludedStandardButtons>ChangeOwner</excludedStandardButtons>
+        <excludedStandardButtons>Accept</excludedStandardButtons>
         <lookupDialogsAdditionalFields>agf__Dependent_Team__c</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>agf__Provider_Team__c</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>agf__Deliverable__c</lookupDialogsAdditionalFields>

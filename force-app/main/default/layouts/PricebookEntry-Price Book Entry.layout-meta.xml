@@ -22,14 +22,14 @@
                 <field>UnitPrice</field>
             </layoutItems>
         </layoutColumns>
-        <layoutColumns/>
+        <layoutColumns></layoutColumns>
         <style>TwoColumnsLeftToRight</style>
     </layoutSections>
     <layoutSections>
         <customLabel>false</customLabel>
         <detailHeading>false</detailHeading>
         <editHeading>false</editHeading>
-        <layoutColumns/>
+        <layoutColumns></layoutColumns>
         <style>CustomLinks</style>
     </layoutSections>
     <miniLayout>

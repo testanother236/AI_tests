@@ -14,11 +14,6 @@
         <keywordList>AuraOne.Banned</keywordList>
     </entitiesAndFields>
     <entitiesAndFields>
-        <entityName>FeedPollChoice</entityName>
-        <fieldName>ChoiceBody</fieldName>
-        <keywordList>AuraOne.Banned</keywordList>
-    </entitiesAndFields>
-    <entitiesAndFields>
         <entityName>FeedItem</entityName>
         <fieldName>RawBody</fieldName>
         <keywordList>AuraOne.Banned</keywordList>
@@ -26,6 +21,11 @@
     <entitiesAndFields>
         <entityName>FeedItem</entityName>
         <fieldName>Title</fieldName>
+        <keywordList>AuraOne.Banned</keywordList>
+    </entitiesAndFields>
+    <entitiesAndFields>
+        <entityName>FeedPollChoice</entityName>
+        <fieldName>ChoiceBody</fieldName>
         <keywordList>AuraOne.Banned</keywordList>
     </entitiesAndFields>
     <masterLabel>Flag posts or comments containing banned keywords</masterLabel>

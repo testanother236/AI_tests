@@ -172,8 +172,8 @@
         <customTabListAdditionalFields>agf__Role__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>agf__Manager_IC__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>agf__Team__c</customTabListAdditionalFields>
-        <excludedStandardButtons>Accept</excludedStandardButtons>
         <excludedStandardButtons>ChangeOwner</excludedStandardButtons>
+        <excludedStandardButtons>Accept</excludedStandardButtons>
         <lookupDialogsAdditionalFields>agf__Headcount_Name__c</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>agf__Team__c</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>agf__Role__c</lookupDialogsAdditionalFields>

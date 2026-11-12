@@ -14,9 +14,9 @@
         <detailHeading>false</detailHeading>
         <editHeading>false</editHeading>
         <label>Template Information</label>
-        <layoutColumns/>
-        <layoutColumns/>
-        <layoutColumns/>
+        <layoutColumns></layoutColumns>
+        <layoutColumns></layoutColumns>
+        <layoutColumns></layoutColumns>
         <style>CustomLinks</style>
     </layoutSections>
     <layoutSections>
@@ -140,7 +140,7 @@
                 <field>agf__Use_Prioritizer__c</field>
             </layoutItems>
         </layoutColumns>
-        <layoutColumns/>
+        <layoutColumns></layoutColumns>
         <style>TwoColumnsLeftToRight</style>
     </layoutSections>
     <layoutSections>
