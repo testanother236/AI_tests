@@ -140,7 +140,7 @@
         <formFactor>Small</formFactor>
         <type>Default</type>
     </actionOverrides>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>Work_Order_Line_Item_Layout</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <searchLayouts>

@@ -21,6 +21,11 @@
             </value>
             <value>
                 <default>false</default>
+                <fullName>ToDo</fullName>
+                <label>ToDo</label>
+            </value>
+            <value>
+                <default>false</default>
                 <fullName>User Story</fullName>
                 <label>User Story</label>
             </value>

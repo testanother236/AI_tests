@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <IncidentMgmtSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableAiKnowledgeCreation>false</enableAiKnowledgeCreation>
+    <enableAlertBroadcastType>true</enableAlertBroadcastType>
     <enableAutoClosureOfChildIncident>false</enableAutoClosureOfChildIncident>
     <enableAutoCreationOfProblem>false</enableAutoCreationOfProblem>
     <enableChangePriorityMatrix>false</enableChangePriorityMatrix>
@@ -14,6 +15,7 @@
     <enableChgRqstCnflctDetection>false</enableChgRqstCnflctDetection>
     <enableCnfgItemCopyForRecords>false</enableCnfgItemCopyForRecords>
     <enableDedupE2IncidentAttachment>false</enableDedupE2IncidentAttachment>
+    <enableEmailBroadcastType>false</enableEmailBroadcastType>
     <enableEmailToIncident>false</enableEmailToIncident>
     <enableEmailToIncidentAi>false</enableEmailToIncidentAi>
     <enableITSMChangeMgmt>false</enableITSMChangeMgmt>
@@ -22,7 +24,7 @@
     <enableITSMProblemMgmt>false</enableITSMProblemMgmt>
     <enableIncPriorityMatrix>false</enableIncPriorityMatrix>
     <enableIncPriorityOverride>false</enableIncPriorityOverride>
-    <enableIncidentMgmt>false</enableIncidentMgmt>
+    <enableIncidentMgmt>true</enableIncidentMgmt>
     <enableIncidentValidations>false</enableIncidentValidations>
     <enableMiawForRequestorAgent>false</enableMiawForRequestorAgent>
     <enableProbPriorityMatrix>false</enableProbPriorityMatrix>
@@ -30,4 +32,6 @@
     <enableProblemValidations>false</enableProblemValidations>
     <enableRiskAssessment>false</enableRiskAssessment>
     <enableSaveE2IncidentAttachment>false</enableSaveE2IncidentAttachment>
+    <enableSiteBannerBroadcastType>false</enableSiteBannerBroadcastType>
+    <enableSlackBroadcastType>false</enableSlackBroadcastType>
 </IncidentMgmtSettings>

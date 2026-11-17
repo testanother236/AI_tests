@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ActivityCompletionDuration</fullName>
+    <inlineHelpText>The maximum duration in which a user must complete the activity to qualify for promotion rewards. By default, this duration starts after a user enrolls in a promotion.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

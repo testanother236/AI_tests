@@ -11,7 +11,7 @@
     <valueSet>
         <controllingField>agf__Region__c</controllingField>
         <valueSetDefinition>
-            <sorted>false</sorted>
+            <sorted>true</sorted>
             <value>
                 <default>false</default>
                 <fullName>Alabama - Remote</fullName>

@@ -11,7 +11,7 @@
         <reevaluateOnChange>false</reevaluateOnChange>
     </fieldUpdates>
     <rules>
-        <active>false</active>
+        <active>true</active>
         <criteriaItems>
             <field>agf__ADM_Scrum_Team__c.RecordTypeId</field>
             <operation>equals</operation>

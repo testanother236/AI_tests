@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ActivityCompletionDurationUnit</fullName>
+    <inlineHelpText>The unit of time for measuring the activity completion duration.Valid Values are: Days, Weeks, Months</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

@@ -10,7 +10,7 @@
     <type>MultiselectPicklist</type>
     <valueSet>
         <valueSetDefinition>
-            <sorted>false</sorted>
+            <sorted>true</sorted>
             <value>
                 <default>false</default>
                 <fullName>Android Other</fullName>

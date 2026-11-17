@@ -11,7 +11,7 @@
     <type>Picklist</type>
     <valueSet>
         <valueSetDefinition>
-            <sorted>false</sorted>
+            <sorted>true</sorted>
             <value>
                 <default>false</default>
                 <fullName>Analyst Relations</fullName>

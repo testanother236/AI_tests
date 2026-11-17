@@ -4,7 +4,7 @@
     <description>Number of story points assigned to work item when it was forecast in this sprint</description>
     <externalId>false</externalId>
     <fullName>agf__Committed_Story_Points__c</fullName>
-    <inlineHelpText>Number of story points assigned to work item when it was committed to in this sprint</inlineHelpText>
+    <inlineHelpText>Number of story points assigned to work item when it was forecast in this sprint</inlineHelpText>
     <label>Forecast Story Points</label>
     <precision>3</precision>
     <required>false</required>

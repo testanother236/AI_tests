@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightningExperienceSettings xmlns="http://soap.sforce.com/2006/04/metadata">
-    <activeThemeName>TestSLDS2</activeThemeName>
     <enableAccessCheckCrucPref>false</enableAccessCheckCrucPref>
     <enableApiUserLtngOutAccessPref>false</enableApiUserLtngOutAccessPref>
     <enableAuraBoxcarReductionPref>false</enableAuraBoxcarReductionPref>
     <enableAuraCDNPref>true</enableAuraCDNPref>
     <enableDeferRenderingWorkspacePage>true</enableDeferRenderingWorkspacePage>
     <enableErrorExperienceEnabled>false</enableErrorExperienceEnabled>
-    <enableFeedbackInMobile>true</enableFeedbackInMobile>
+    <enableFeedbackInMobile>false</enableFeedbackInMobile>
     <enableHideOpenInQuip>false</enableHideOpenInQuip>
     <enableIE11DeprecationMsgHidden>false</enableIE11DeprecationMsgHidden>
     <enableIE11LEXCrucPref>false</enableIE11LEXCrucPref>
-    <enableInAppTooltips>true</enableInAppTooltips>
+    <enableInAppTooltips>false</enableInAppTooltips>
     <enableLEXExtensionComponentCustomization>false</enableLEXExtensionComponentCustomization>
     <enableLEXExtensionDarkMode>false</enableLEXExtensionDarkMode>
     <enableLEXExtensionInlineEditModifier>false</enableLEXExtensionInlineEditModifier>
@@ -19,8 +18,8 @@
     <enableLEXExtensionRelatedLists>false</enableLEXExtensionRelatedLists>
     <enableLEXExtensionRequiredFields>false</enableLEXExtensionRequiredFields>
     <enableLEXExtensionTrailhead>false</enableLEXExtensionTrailhead>
-    <enableLEXOnIpadEnabled>false</enableLEXOnIpadEnabled>
-    <enableLexEndUsersNoSwitching>false</enableLexEndUsersNoSwitching>
+    <enableLEXOnIpadEnabled>true</enableLEXOnIpadEnabled>
+    <enableLexEndUsersNoSwitching>true</enableLexEndUsersNoSwitching>
     <enableLightningDomainSidCHIPS>false</enableLightningDomainSidCHIPS>
     <enableLightningPreviewPref>false</enableLightningPreviewPref>
     <enableNavPersonalizationOptOut>false</enableNavPersonalizationOptOut>
@@ -33,11 +32,11 @@
     <enableS1UiLoggingEnabled>true</enableS1UiLoggingEnabled>
     <enableSidToken3rdPartyAuraApp>false</enableSidToken3rdPartyAuraApp>
     <enableStackedModalManagerEnabled>true</enableStackedModalManagerEnabled>
-    <enableTryLightningOptOut>false</enableTryLightningOptOut>
+    <enableTryLightningOptOut>true</enableTryLightningOptOut>
     <enableUseS1AlohaDesktop>false</enableUseS1AlohaDesktop>
-    <enableUsersAreLightningOnly>false</enableUsersAreLightningOnly>
+    <enableUsersAreLightningOnly>true</enableUsersAreLightningOnly>
     <isLEXExtensionComponentCustomizationOff>false</isLEXExtensionComponentCustomizationOff>
     <isLEXExtensionDarkModeOff>false</isLEXExtensionDarkModeOff>
     <isLEXExtensionLinkGrabberOff>false</isLEXExtensionLinkGrabberOff>
-    <isLEXExtensionOff>false</isLEXExtensionOff>
+    <isLEXExtensionOff>true</isLEXExtensionOff>
 </LightningExperienceSettings>
